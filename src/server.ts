@@ -1,3 +1,3 @@
-import fs from 'fs';
+import fs from "fs";
 
-console.log(fs.readFileSync('./README.md', 'utf-8'));
+console.log(fs.readFileSync("./README.md", "utf-8"));
